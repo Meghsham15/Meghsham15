@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I’m currently learning *React JS*
 
-- 📱I’m intrested in *Web Development & Cloud Computating*
+- 📱I’m intrested in *Web Development & Cloud Computing*
 
 - 💻 All of my projects are available at [http://meghsham-jade.azurewebsites.net/](http://meghsham-jade.azurewebsites.net/)
 
