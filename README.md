@@ -9,9 +9,9 @@
 
 - 📱I’m intrested in *Web Development & Cloud Computing*
 
-- 💻 All of my projects are available at [http://meghsham-jade.azurewebsites.net/](http://meghsham-jade.azurewebsites.net/)
+- 💻 All of my projects are available at [meghsham.rocks)
 
-- 💬 You can see my portfolio on **http://meghsham-jade.azurewebsites.net/**
+- 💬 You can see my portfolio on **http://meghsham-jade.azurewebsites.net/** && **meghsham.rocks**
 
 - 📫 How to reach me *meghshamjade50@gmail.com*
 
