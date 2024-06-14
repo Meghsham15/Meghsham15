@@ -9,11 +9,11 @@
 
 - 📱I’m intrested in *Web Development & Cloud Computing*
 
-- 💻 All of my projects are available at [https://meghsham15.github.io/portfolio-mj/)
+- 💻 All of my projects are available at [https://meghsham15.github.io/react-portfolio/)
 
-- 💬 You can see my portfolio on **https://meghsham15.github.io/portfolio-mj/** 
+- 💬 You can see my portfolio on **https://meghsham15.github.io/react-portfolio/** 
 
-- 📫 How to reach me *meghshamjade50@gmail.com*
+- 📫 How to reach me  at *meghshamjade.contact@gmail.com* or *meghshamjade50@gmail.com*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
