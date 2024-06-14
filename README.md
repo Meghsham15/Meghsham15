@@ -12,13 +12,16 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghsham15&theme=onedark&no-frame=true&column=7" alt="meghsham15" /></a>
 </p>
 
-- 🌱 I’m currently learning **React-Redux and ICP blockchain**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://meghsham15.github.io/react-portfolio/)
-- 📫 How to reach me **9325366493**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X2oAOoCKEPVRafTLO6wDfQNuDU00ebjP/view?usp=drive_link)
+<p align="center">
+  <a href="https://meghsham15.github.io/react-portfolio/" target="blank">🌐 View My Portfolio</a> |
+  <a href="https://drive.google.com/file/d/1X2oAOoCKEPVRafTLO6wDfQNuDU00ebjP/view?usp=drive_link" target="blank">📄 View My Resume</a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🌱 I’m currently learning **React-Redux and ICP blockchain**
+- 📫 How to reach me **9325366493**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/meghsham6" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghsham6" height="30" width="40" />
   </a>
@@ -30,8 +33,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -80,9 +83,13 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghsham15&show_icons=true&locale=en&layout=compact&theme=onedark" alt="meghsham15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meghsham15&show_icons=true&locale=en&layout=compact&theme=onedark" alt="meghsham15" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghsham15&show_icons=true&locale=en&theme=onedark" alt="meghsham15" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghsham15&show_icons=true&locale=en&theme=onedark" alt="meghsham15" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghsham15&theme=onedark" alt="meghsham15" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghsham15&theme=onedark" alt="meghsham15" />
+</p>
