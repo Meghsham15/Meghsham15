@@ -18,7 +18,7 @@
 </p>
 
 - 🌱 I’m currently learning **React-Redux and ICP blockchain**
-- 📫 How to reach me **9325366493**
+- 📫 How to reach me **meghshamjade.contact@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
