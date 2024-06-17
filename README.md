@@ -1,23 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meghsham Jade</h1>
 <h3 align="center">Enthusiastic Web Developer | JavaScript, React, Node.js, MongoDB</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meghsham15&label=Profile%20views&color=0e75b6&style=flat" alt="meghsham15" />
-  <a href="https://twitter.com/meghsham6" target="blank">
-    <img src="https://img.shields.io/twitter/follow/meghsham6?logo=twitter&style=for-the-badge" alt="meghsham6" />
-  </a>
+  I am a very enthusiastic and smart working developer who has an eagerness to learn. I have been doing web-development for almost more than 2 years now and I have learnt many new things in my 6 months internship which helped me improve and develop myself as a developer. Also I'm honest in my work and like building new websites and working on new projects. And I am very excited for this role in your company so if you're looking for an enthusiastic, honest, smart working person and someone open to new things I am that person you are looking for. My strengths include HTML, CSS, JAVASCRIPT, NODEJS, OAUTH, MONGODB, REACTJS, REST API, EXPRESS etc along with good communication and verbal skills.
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghsham15&theme=onedark&no-frame=true&column=7" alt="meghsham15" /></a>
-</p>
 
-<p align="center">
-  <a href="https://meghsham15.github.io/react-portfolio/" target="blank">🌐 View My Portfolio</a> |
-  <a href="https://drive.google.com/file/d/1X2oAOoCKEPVRafTLO6wDfQNuDU00ebjP/view?usp=drive_link" target="blank">📄 View My Resume</a>
-</p>
-
-- 🌱 I’m currently learning **React-Redux and ICP blockchain**
+- 🌱 I’m currently learning **React-Redux and ICP blockchain along with DSA practice**
 - 📫 How to reach me **meghshamjade.contact@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
