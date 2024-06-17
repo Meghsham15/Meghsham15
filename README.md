@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meghsham Jade</h1>
 <h3 align="center">Enthusiastic Web Developer | JavaScript, React, Node.js, MongoDB</h3>
-<p align="center">
+<p align="left">
   I am a very enthusiastic and smart working developer who has an eagerness to learn. I have been doing web-development for almost more than 2 years now and I have learnt many new things in my 6 months internship which helped me improve and develop myself as a developer. Also I'm honest in my work and like building new websites and working on new projects. And I am very excited for this role in your company so if you're looking for an enthusiastic, honest, smart working person and someone open to new things I am that person you are looking for. My strengths include HTML, CSS, JAVASCRIPT, NODEJS, OAUTH, MONGODB, REACTJS, REST API, EXPRESS etc along with good communication and verbal skills.
 </p>
 
