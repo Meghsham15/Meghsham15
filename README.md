@@ -5,7 +5,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React-Redux and ICP blockchain along with DSA practice**
+- 🌱 I’m currently learning **ICP blockchain along with practicing DSA concepts**
 - 📫 How to reach me **meghshamjade.contact@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
